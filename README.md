@@ -4,7 +4,8 @@
 
 --An Assignment where I loaded movie data onto a web site.  
 I used [OMDB](https://www.OMDBAPI.com)'s API to request the movie data.
-When the user requests the same movie data more than once the movie data will be uploaded from a cache server.
+When the user requests the same movie data more than once the movie data will 
+be uploaded from a cache server.
 
 
 ## **EXTRAS:**
