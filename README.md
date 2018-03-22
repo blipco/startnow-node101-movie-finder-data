@@ -1,10 +1,17 @@
 # MOVIE FINDER
 
-## DESCRIPTION
+## **DESCRIPTION:**
 
-### EXTRAS
+--An Assignment where I loaded movie data onto a web site.  
+I used (www.OMDBAPI.com "OMDB")'s API to request the movie data.
+When the user requests the same movie data more than once the movie data will be uploaded from a cache server.
 
-#### DEPENDENCIES
+
+## **EXTRAS:**
+
+No Extras
+
+## **DEPENDENCIES:**
 
 1. axios
 2. logger
@@ -15,4 +22,6 @@
 7. express
 8. mocha
 
-##### STYLING
+## **STYLING:**
+
+No styling
