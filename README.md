@@ -2,7 +2,7 @@
 
 ## **DESCRIPTION:**
 
---An Assignment where I loaded movie data onto a web site.  
+-- An Assignment where I loaded movie data onto a web site.  
 
 I used [OMDB](https://www.OMDBAPI.com)'s API to request the movie data.
 
@@ -13,7 +13,7 @@ be uploaded from a cache server.
 
 ## **EXTRAS:**
 
-No Extras
+-- No Extras
 
 ## **DEPENDENCIES:**
 
@@ -28,4 +28,4 @@ No Extras
 
 ## **STYLING:**
 
-No styling
+-- No styling
